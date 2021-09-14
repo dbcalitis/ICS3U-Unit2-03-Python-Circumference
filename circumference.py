@@ -9,7 +9,7 @@ import constants
 
 
 def main():
-    # this function calculates the circuference
+    # this function calculates the circumference
 
     # input
     radius = int(input("Enter the radius of the circle (cm): "))
